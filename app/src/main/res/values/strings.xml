@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GoCard Balance</string>
+    <string name="scan_gocard">Scan your GoCard</string>
+    <string name="action_about">About</string>
+    <string name="you_have">You currently have</string>
+    <string name="on_your_gocard">on your GoCard</string>
+    <string name="card_id">Card ID: </string>
+    <string name="desc">GoBus Logo</string>
+    <string name="title_activity_about">About</string>
+    <string name="version">Version 1</string>
+    <string name="disclaimer">This app is not endorsed by the Otago Regional Council.</string>
+    <string name="made_by">Displays the balance of your GoCard for Dunedin public transport.\n\nMade by Indy Griffiths</string>
+    <string name="topup_soon">Balance low. Consider topping up soon.</string>
+
+</resources>
